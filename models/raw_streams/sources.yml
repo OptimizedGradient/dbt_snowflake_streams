@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw_streams
+    database: user_dkelley
+    schema: streams
+    tables:
+      - name: stream_table1
+      - name: stream_table2
+      - name: stream1
+      - name: stream2
+    
